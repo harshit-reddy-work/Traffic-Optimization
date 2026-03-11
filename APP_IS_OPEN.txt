@@ -1,0 +1,54 @@
+================================================================================
+   🚦 TRAFFIC CONTROL APP IS NOW OPEN! 🚦
+================================================================================
+
+📱 The GUI window should be visible now!
+
+If you don't see it:
+- Check your taskbar for "traffic_control_app.py"
+- Look for a dark blue window titled "Adaptive Traffic Signal Control System"
+
+================================================================================
+📖 HOW TO USE:
+================================================================================
+
+1. UPLOAD VIDEOS (top of window)
+   - Click "📁 Upload Video" for Lane 1
+   - Select a video file (e.g., videos/1.mp4)
+   - Repeat for Lanes 2, 3, 4
+
+2. PROCESS ALL VIDEOS
+   - Click "🚀 Process All Videos"
+   - Wait for "✓ All lanes processed!"
+   - Vehicle counts will appear
+
+3. CALCULATE TIMING
+   - Click "⚡ Calculate Timing"
+   - View results in the text box
+   - Simulation window will open!
+
+================================================================================
+🎯 WHAT TO EXPECT:
+================================================================================
+
+The app will:
+✓ Open your videos
+✓ Detect vehicles (cars, buses, trucks, bikes, motorcycles)
+✓ Count them per lane
+✓ Calculate optimal traffic light timing
+✓ Show live traffic light switching
+
+================================================================================
+💡 QUICK TEST:
+================================================================================
+
+To test quickly:
+1. Upload any video from the videos/ folder
+2. Click "Process All Videos"
+3. Watch it count vehicles!
+
+The app is fully integrated with YOLOv8 and ready to detect vehicles!
+
+================================================================================
+
+

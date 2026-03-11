@@ -1,0 +1,82 @@
+================================================================================
+   🚦 TRAFFIC CONTROL APPLICATION - QUICK START
+================================================================================
+
+📱 The GUI application should now be OPEN!
+
+If you don't see it, run:
+  python traffic_control_app.py
+
+================================================================================
+🎯 QUICK STEPS TO USE:
+================================================================================
+
+1️⃣  UPLOAD VIDEOS
+   → Click "📁 Upload Video" for Lane 1
+   → Select your video file
+   → Repeat for Lanes 2, 3, 4 (or as many as you have)
+
+2️⃣  PROCESS VIDEOS
+   → Click "🚀 Process All Videos"
+   → Wait for "✓ All lanes processed!"
+   → You'll see vehicle counts appear
+
+3️⃣  CALCULATE TIMING
+   → Click "⚡ Calculate Timing"
+   → View optimal traffic light durations
+   → See the live simulation!
+
+================================================================================
+📊 WHAT IT DOES:
+================================================================================
+
+✓ Detects vehicles in your videos (cars, buses, trucks, bikes)
+✓ Counts total vehicles per lane
+✓ Calculates optimal timing based on vehicle density
+✓ Shows live traffic light switching simulation
+✓ Displays time remaining for each phase
+
+================================================================================
+🎮 CONTROLS:
+================================================================================
+
+Main Window:
+  - Upload Video: Select video file for each lane
+  - Process Videos: Start counting vehicles
+  - Calculate Timing: Show optimal timing
+
+Simulation Window:
+  - 🟢 Green light for current lane
+  - ⏱️ Time remaining counter
+  - ⏹️ Stop button to end
+
+================================================================================
+💡 EXAMPLE:
+================================================================================
+
+If you have these results:
+  Lane 1: 98 vehicles
+  Lane 2: 75 vehicles
+  Lane 3: 45 vehicles
+  Lane 4: 32 vehicles
+
+The app calculates:
+  Lane 1: 30.0s (most vehicles → longest time)
+  Lane 2: 24.0s
+  Lane 3: 16.5s
+  Lane 4: 11.5s (fewest vehicles → shortest time)
+
+Then it switches lights accordingly! 🚦
+
+================================================================================
+✅ APPLICATION IS READY!
+================================================================================
+
+Start using it now:
+  1. Upload your traffic videos
+  2. Click "Process All Videos"
+  3. Click "Calculate Timing"
+  4. Watch the simulation!
+
+================================================================================
+
